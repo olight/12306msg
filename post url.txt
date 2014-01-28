@@ -5,3 +5,11 @@ http://dynamic.12306.cn/otsquery/query/queryRemanentTicketAction.do?method=query
 
 
 http://dynamic.12306.cn/otsquery/query/queryRemanentTicketAction.do?method=queryLeftTicket&orderRequest.train_date=日期&orderRequest.from_station_telecode=发站代码&orderRequest.to_station_telecode=到站代码&orderRequest.train_no=&trainPassType=QB&trainClass=QB%23D%23Z%23T%23K%23QT%23&includeStudent=00&seatTypeAndNum=&orderRequest.start_time_str=00%3A00--24%3A00
+
+
+
+2014更新：
+
+https://kyfw.12306.cn/otn/leftTicket/query?leftTicketDTO.train_date=2014-02-08&leftTicketDTO.from_station=ZZF&leftTicketDTO.to_station=HZH&purpose_codes=ADULT
+
+https://kyfw.12306.cn/otn/leftTicket/query?leftTicketDTO.train_date=日期&leftTicketDTO.from_station=发站代码&leftTicketDTO.to_station=到站代码&purpose_codes=ADULT
